@@ -1,0 +1,25 @@
+body {
+    font-size: 15px;
+    font-weight: 700;
+}
+
+.qr-parent {
+    background-color: lightblue;
+}
+
+.qr-row {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.qr-heading h3 {
+    font-size: 1rem;
+    font-family: "Outfit", sans-serif;
+    font-weight: 700;
+}
+
+.qr-heading h4 {
+    font-family: "Outfit", sans-serif;
+    font-size: 0.8rem;
+    font-weight: 400;
+}
